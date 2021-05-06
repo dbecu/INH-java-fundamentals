@@ -1,1 +1,1 @@
-# INHOLLAND HOGESCHOOL year 2 java assignments
+# INHOLLAND HOGESCHOOL java fundamentals
